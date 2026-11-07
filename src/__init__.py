@@ -8,8 +8,8 @@
     http://www.wadoku.de/wiki/display/WAD/%28Vorschlag%29+Neue+Wadoku-Daten+Lizenz
 """
 
-__author__ = 'Tarek Saier'
-__credits__ = ['kclisp', 'Peter Maxwell']
+__author__ = 'smapira'
+__credits__ = ['kclisp', 'Peter Maxwell', 'Tarek Saier']
 __license__ = 'MIT'
 
 import json
